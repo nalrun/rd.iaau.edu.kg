@@ -240,6 +240,7 @@ textarea {
 .highlight h3 {
 	margin:0 0 9px 0;
 }
+
 .highlight p {
 	padding:0 0 11px 0;
 }
@@ -338,4 +339,7 @@ textarea {
 #footer a {
 	color:#7f7f7f;
 	text-decoration:none;
+}
+ol {
+	margin-left: 30px;
 }
